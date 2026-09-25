@@ -13,7 +13,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently building the web storefront and admin dashboards for **RaraMarket** at **Devloops Software Nepal**.
+- 🔭 Currently working on the web storefront and admin dashboards for **RaraMarket** at **Devloops Software Nepal**.
 - 🎨 Crafting interactive 3D web experiences and optimizing performance with **Three.js**, **React Three Fiber**, and **GSAP**.
 - 🛠️ Experienced in scalable frontend systems, RESTful API design, and full-stack eCommerce platforms.
 - 📍 Based in **Lalitpur, Nepal**.
