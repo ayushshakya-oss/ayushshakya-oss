@@ -13,11 +13,11 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently building the web storefront and admin dashboards for **RaraMarket** at **Devloops Software Nepal**[cite: 1].
-- 🎨 Crafting interactive 3D web experiences and optimizing performance with **Three.js**, **React Three Fiber**, and **GSAP**[cite: 1].
-- 🛠️ Experienced in scalable frontend systems, RESTful API design, and full-stack eCommerce platforms[cite: 1].
-- 📍 Based in **Lalitpur, Nepal**[cite: 1].
-- 📫 Reach me at: **[ashakya406@gmail.com](mailto:ashakya406@gmail.com)**[cite: 1]
+- 🔭 Currently building the web storefront and admin dashboards for **RaraMarket** at **Devloops Software Nepal**.
+- 🎨 Crafting interactive 3D web experiences and optimizing performance with **Three.js**, **React Three Fiber**, and **GSAP**.
+- 🛠️ Experienced in scalable frontend systems, RESTful API design, and full-stack eCommerce platforms.
+- 📍 Based in **Lalitpur, Nepal**.
+- 📫 Reach me at: **[ashakya406@gmail.com](mailto:ashakya406@gmail.com)**
 
 ---
 
@@ -59,13 +59,13 @@
 
 ### 🚀 Highlight Projects
 
-* **[3D Interactive Web Experience](https://ayush-shakya.vercel.app/)**[cite: 1]
-  * Built an interactive 3D web application with custom geometries, dynamic lighting shaders, and smooth camera controls maintaining steady 60 FPS performance[cite: 1].
-  * Integrated GSAP ScrollTrigger timelines and optimized asset compression (GLTF/GLB) for instant load times[cite: 1].
+* **[3D Interactive Web Experience](https://ayush-shakya.vercel.app/)**
+  * Built an interactive 3D web application with custom geometries, dynamic lighting shaders, and smooth camera controls maintaining steady 60 FPS performance.
+  * Integrated GSAP ScrollTrigger timelines and optimized asset compression (GLTF/GLB) for instant load times.
 
-* **Full-Stack eCommerce Platform**[cite: 1]
-  * Developed an end-to-end shopping platform using Next.js, Node.js, Express, and MySQL/MongoDB[cite: 1].
-  * Features SSR optimization, cart state management, checkout flows, and modular JWT-authenticated APIs for roles and inventory[cite: 1].
+* **Full-Stack eCommerce Platform**
+  * Developed an end-to-end shopping platform using Next.js, Node.js, Express, and MySQL/MongoDB.
+  * Features SSR optimization, cart state management, checkout flows, and modular JWT-authenticated APIs for roles and inventory.
 
 ---
 
