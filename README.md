@@ -72,8 +72,8 @@
 ### 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayushshakya-oss&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ayush's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushshakya-oss&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://raw.githubusercontent.com/ayushshakya-oss/ayushshakya-oss/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details" />
+  <img src="https://raw.githubusercontent.com/ayushshakya-oss/ayushshakya-oss/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Languages" />
 </div>
 
 <div align="center">
